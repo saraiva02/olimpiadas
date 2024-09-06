@@ -1,4 +1,4 @@
-##  Atletas do Brasil: Minha fonte de inspiração!
+##  Atletas do Brasil: Minha fonte de inspiração! - Imersão Dev da Alura com Google Gemini
 
 ### O que é essa aplicação?
 Essa aplicação incrível te ajuda a descobrir mais sobre os atletas brasileiros que você mais admira! 🇧🇷 Com apenas alguns cliques, você encontra informações sobre os seus esportes favoritos, histórias inspiradoras e muito mais.
